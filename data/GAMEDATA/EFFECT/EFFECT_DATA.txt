@@ -1,0 +1,75 @@
+#========================================
+#
+# エフェクトの情報
+# Author: KEISUKE OOTONO
+#
+# ファイル名 / エフェクト名
+#
+#========================================
+#||||||||||||||||||||||||||||||||||||||||
+#========================================
+EFFECT data\\TEXTURE\\EFFECT\\eff_Arrow_000.png 		Arrow00		#00 矢印00
+EFFECT data\\TEXTURE\\EFFECT\\eff_Arrow_001.png 		Arrow01		#01 矢印01
+EFFECT data\\TEXTURE\\EFFECT\\eff_Arrow_002.png 		Arrow02		#02 矢印02
+EFFECT data\\TEXTURE\\EFFECT\\eff_Aura_000.png 			Aura00		#03 オーラ00
+EFFECT data\\TEXTURE\\EFFECT\\eff_Aura_001.png 			Aura01		#04 オーラ01
+EFFECT data\\TEXTURE\\EFFECT\\eff_Aura_002.png 			Aura02		#05 オーラ02
+EFFECT data\\TEXTURE\\EFFECT\\eff_Aura_003.png 			Aura03		#06 オーラ03
+EFFECT data\\TEXTURE\\EFFECT\\eff_Bubble_000.png 		Bubble00	#07 泡00
+EFFECT data\\TEXTURE\\EFFECT\\eff_Bubble_001.png 		Bubble01	#08 泡01
+EFFECT data\\TEXTURE\\EFFECT\\eff_Bubble_002.png 		Bubble02	#09 泡02
+EFFECT data\\TEXTURE\\EFFECT\\eff_Bubble_003.png 		Bubble03	#10 泡03
+EFFECT data\\TEXTURE\\EFFECT\\eff_circle_000.jpg 		Circle00	#11 円00
+EFFECT data\\TEXTURE\\EFFECT\\eff_Circle_000.png 		Circle01	#12 円01
+EFFECT data\\TEXTURE\\EFFECT\\eff_Circle_001.png 		Circle02	#13 円02
+EFFECT data\\TEXTURE\\EFFECT\\eff_Circle_002.png 		Circle03	#12 円03
+EFFECT data\\TEXTURE\\EFFECT\\eff_Circle_003.png 		Circle04	#15 円04
+EFFECT data\\TEXTURE\\EFFECT\\eff_Fire_000.png 			Fire00		#16 炎00
+EFFECT data\\TEXTURE\\EFFECT\\eff_Fire_001.png 			Fire01		#17 炎01
+EFFECT data\\TEXTURE\\EFFECT\\eff_Fire_002.png 			Fire02		#18 炎02
+EFFECT data\\TEXTURE\\EFFECT\\eff_Fire_003.png 			Fire03		#19 炎03
+EFFECT data\\TEXTURE\\EFFECT\\eff_Glow_000.png 			Glow00		#20 輝く00
+EFFECT data\\TEXTURE\\EFFECT\\eff_Glow_001.png 			Glow01		#21 輝く01
+EFFECT data\\TEXTURE\\EFFECT\\eff_Glow_002.png 			Glow02		#22 輝く02
+EFFECT data\\TEXTURE\\EFFECT\\eff_GlowSpike_000.png 	Spike00		#23 釘00
+EFFECT data\\TEXTURE\\EFFECT\\eff_Hit_000.png 			Hit00		#24 ヒット00
+EFFECT data\\TEXTURE\\EFFECT\\eff_Hit_001.png 			Hit01		#25 ヒット01
+EFFECT data\\TEXTURE\\EFFECT\\eff_Hit_002.png 			Hit02		#26 ヒット02
+EFFECT data\\TEXTURE\\EFFECT\\eff_Hit_003.png 			Hit03		#27 ヒット03
+EFFECT data\\TEXTURE\\EFFECT\\eff_Hit_004.png 			Hit04		#28 ヒット04
+EFFECT data\\TEXTURE\\EFFECT\\eff_Ray_000.png 			Ray00		#29 光線00
+EFFECT data\\TEXTURE\\EFFECT\\eff_Ray_001.png 			Ray01		#30 光線01
+EFFECT data\\TEXTURE\\EFFECT\\eff_Ray_002.png 			Ray02		#31 光線02
+EFFECT data\\TEXTURE\\EFFECT\\eff_Ray_003.png 			Ray03		#32 光線03
+EFFECT data\\TEXTURE\\EFFECT\\eff_Ray_004.png 			Ray04		#33 光線04
+EFFECT data\\TEXTURE\\EFFECT\\eff_Ripple_000.png 		Ripple00	#34 波紋00
+EFFECT data\\TEXTURE\\EFFECT\\eff_Smoke_000.png 		Smoke00		#35 煙00
+EFFECT data\\TEXTURE\\EFFECT\\eff_Smoke_001.png 		Smoke01		#36 煙01
+EFFECT data\\TEXTURE\\EFFECT\\eff_Smoke_002.png 		Smoke02		#37 煙02
+EFFECT data\\TEXTURE\\EFFECT\\eff_Snow_000.png 			Snow00		#38 雪00
+EFFECT data\\TEXTURE\\EFFECT\\eff_Star_000.png 			Star00		#39 星00
+EFFECT data\\TEXTURE\\EFFECT\\eff_Star_001.png 			Star01		#40 星01
+EFFECT data\\TEXTURE\\EFFECT\\eff_Star_002.png 			Star02		#41 星02
+EFFECT data\\TEXTURE\\EFFECT\\eff_steam_000.png 		Steam00		#42 煙00
+EFFECT data\\TEXTURE\\EFFECT\\eff_Thunder_000.png 		Thunder00	#43 雷00
+EFFECT data\\TEXTURE\\EFFECT\\eff_Tornado_000.png 		Tornado00	#44 竜巻00
+EFFECT data\\TEXTURE\\EFFECT\\mark_club_000.png 		Clud00		#45 クラブ00
+EFFECT data\\TEXTURE\\EFFECT\\mark_Diamond_000.png 		Diamond00	#46 ダイア00
+EFFECT data\\TEXTURE\\EFFECT\\mark_Diamond_001.png 		Diamond01	#47 ダイア01
+EFFECT data\\TEXTURE\\EFFECT\\mark_Heart_000.png 		Heart00		#48 ハート00
+EFFECT data\\TEXTURE\\EFFECT\\mark_Heart_001.png 		Heart01		#49 ハート01
+EFFECT data\\TEXTURE\\EFFECT\\mark_Skull_000.png 		Skull00		#50 スカル00
+EFFECT data\\TEXTURE\\EFFECT\\mark_smiley_000.png 		Smiley00	#51 スマイル00
+EFFECT data\\TEXTURE\\EFFECT\\mark_smiley_001.png 		Smiley01	#51 スマイル01
+EFFECT data\\TEXTURE\\EFFECT\\mark_smiley_002.png 		Smiley02	#52 スマイル02
+EFFECT data\\TEXTURE\\EFFECT\\mark_smiley_003.png 		Smiley03	#53 スマイル03
+EFFECT data\\TEXTURE\\EFFECT\\mark_spade_000.png 		Spade00		#54 スペード00
+EFFECT data\\TEXTURE\\EFFECT\\mark_Star_000.png 		Star00		#55 星00
+EFFECT data\\TEXTURE\\EFFECT\\mark_Star_001.png 		Star01		#56 星01
+EFFECT data\\TEXTURE\\EFFECT\\mark_Star_002.png 		Star02		#57 星02
+
+#========================================
+#||||||||||||||||||||||||||||||||||||||||
+#========================================
+
+END
