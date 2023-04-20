@@ -22,6 +22,19 @@ static Effect g_aEffect[MAX_EFFECT];										// エフェクトの構造体
 static EffectType g_aEffectType[NUM_EFFECT];								// エフェクト種類の構造体sta
 static Type g_aType[NUM_EFFECT];											// 画像名の構造体
 static int	g_nEffectNum;													// エフェクトの数
+
+//エフェクトのコンストラクタ
+CEffect::CEffect()
+{
+
+}
+//エフェクトのデストラクタ
+CEffect::~CEffect()
+{
+
+}
+
+/* 情報の取得 */
 // エフェクトの情報の取得
 Effect	*GetEffect(void)
 {
@@ -428,5 +441,19 @@ void EffectFade(Effect *pEffect)
 		pEffect->col.a *= ((float)pEffect->nFadeTime / (float)pEffect->nInitLife);
 
 		pEffect->nFadeTime--;
+	}
+}
+void CEffect::Fade(Info *pInfo)
+{
+	// フェード開始するか
+	if (pInfo->nLife <= pInfo->nFadeTime)
+	{
+		/* サイズ */
+		pInfo->fRadius -= pInfo->fRadius / pInfo->nFadeTime;
+
+		/* 不透明度更新 */
+		pInfo->col.a *= ((float)pInfo->nFadeTime / (float)pInfo->nInitLife);
+
+		pInfo->nFadeTime--;
 	}
 }
